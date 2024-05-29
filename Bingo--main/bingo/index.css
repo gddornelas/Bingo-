@@ -1,0 +1,22 @@
+body{
+    background-color:aliceblue;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+ table, tr, td{
+    border: solid black;
+    border-collapse: collapse;
+    font-size: 30px;
+}
+
+h1{
+    align-items: center;
+    font-style:oblique;
+    font-size: 80px;
+}
+
+button{
+    margin: 10%;
+}
